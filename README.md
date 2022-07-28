@@ -17,8 +17,8 @@
 </div>
  
  <h1>Youtube Videos</h1>
- [![Youtube video 1](https://img.youtube.com/vi/DuX4Jz244xI/0.jpg)](https://www.youtube.com/watch?v=DuX4Jz244xI)
- [![Youtube video 1](https://img.youtube.com/vi/tGLRYttXGxY/0.jpg)](https://www.youtube.com/watch?v=tGLRYttXGxY)
+[![Youtube video 1](https://img.youtube.com/vi/DuX4Jz244xI/0.jpg)](https://www.youtube.com/watch?v=DuX4Jz244xI)
+[![Youtube video 1](https://img.youtube.com/vi/tGLRYttXGxY/0.jpg)](https://www.youtube.com/watch?v=tGLRYttXGxY)
 
 </div>
 
