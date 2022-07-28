@@ -16,7 +16,7 @@
  
 </div>
  
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/DuX4Jz244xI)
+[![Object Detection on Highway](http://img.youtube.com/vi/DuX4Jz244xI/0.jpg)](https://youtu.be/DuX4Jz244xI)
 
 </div>
 
