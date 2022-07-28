@@ -16,7 +16,7 @@
  
 </div>
  
-[![Object Detection on Highway](https://yt-embed.herokuapp.com/embed?v=DuX4Jz244xI-Y)](https://youtu.be/DuX4Jz244xI)
+[![Object Detection on Highway](https://yt-embed.herokuapp.com/embed?v=DuX4Jz244xI)](https://youtu.be/DuX4Jz244xI)
 
 </div>
 
