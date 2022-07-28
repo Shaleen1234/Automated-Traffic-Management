@@ -16,7 +16,7 @@
  
 </div>
  
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://i9.ytimg.com/vi/iPbR4-cgHUs/mq2.jpg?sqp=CJTciJcG&rs=AOn4CLDGUML07yRMRTCGoV--gVnPFK049A))](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 </div>
 
